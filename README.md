@@ -18,7 +18,7 @@ Projeto em Andamento, WebSite Life Church para fins acadêmicos.
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/paulltecno?style=social)
 
 © 2022 GitHub, Inc.
 Terms
